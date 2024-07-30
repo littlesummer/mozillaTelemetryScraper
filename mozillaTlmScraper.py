@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from google.cloud import bigquery
 import pandas as pd
 import logging, datetime, argparse
